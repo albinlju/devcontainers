@@ -1,6 +1,6 @@
 name: podman
 version: v0.0.1
-icon: https://podman.io/logos/optimized/podman-3-logo-95w-90h.webp
+icon: https://devpod.sh/assets/docker.svg
 home: https://github.com/loft-sh/devpod
 description: |-
   DevPod on Podman
