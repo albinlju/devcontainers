@@ -1,0 +1,12 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/typescript-node",
+  "forwardPorts": [
+    6006
+  ],
+  "portsAttributes": {
+    "6006": {
+      "label": "Application",
+      "onAutoForward": "silent"
+    }
+  }
+}
