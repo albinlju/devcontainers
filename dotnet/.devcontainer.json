@@ -1,7 +1,9 @@
 {
   "image": "mcr.microsoft.com/devcontainers/dotnet",
   "features": {
-    "ghcr.io/devcontainers/features/nix:1": {}
+    "ghcr.io/devcontainers/features/nix:1": {
+      "version": "2.26.2"
+    }
   },
   "forwardPorts": [
     6080
