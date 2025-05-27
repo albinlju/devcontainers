@@ -1,8 +1,8 @@
 {
-  "image": "mcr.microsoft.com/vscode/devcontainers/base:debian",
+  "image": "mcr.microsoft.com/vscode/devcontainers/base:ubuntu",
   "features": {
     "ghcr.io/devcontainers/features/nix:1": {},
-    "ghcr.io/devcontainers-extra/features/starship:1": {}
+    "ghcr.io/devcontainer-community/devcontainer-features/starship.rs:1": {}
   },
   "forwardPorts": [
     6006,
